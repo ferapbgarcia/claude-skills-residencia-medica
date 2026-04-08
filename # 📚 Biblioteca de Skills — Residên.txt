@@ -1,0 +1,127 @@
+# 📚 Biblioteca de Skills — Residência Médica
+
+> Instale os ZIPs no Claude e use os comandos abaixo a qualquer momento.
+> Todos os casos seguem o formato **3 etapas progressivas** e aguardam sua resposta antes de continuar.
+
+---
+
+## 🩺 Clínica Médica
+> `caso-clinica-medica.zip`
+
+| Comando | Conteúdo |
+|---|---|
+| `/caso-clinica` | Caso aleatório de Clínica Médica |
+| `/caso-clinica cardio` | Cardiologia — SCA, ICC, arritmias, valvopatias, TEP, HAS urgência, síncope |
+| `/caso-clinica pneumo` | Pneumologia — DPOC, asma, pneumonias, derrame pleural, SDRA, DPID |
+| `/caso-clinica nefro` | Nefrologia — IRA, DRC, distúrbios HE/ácido-base, SHU, GN, síndrome nefrótica |
+| `/caso-clinica gastro` | Gastroenterologia — DRGE, DII, pancreatite, câncer colorretal, HDA/HDB |
+| `/caso-clinica hepato` | Hepatologia — hepatites virais, cirrose, complicações, insuficiência hepática aguda |
+| `/caso-clinica endocrino` | Endocrinologia — DM e complicações, tireoide, adrenal, hipófise, cálcio |
+| `/caso-clinica reumato` | Reumatologia — LES, AR, espondiloartrites, vasculites, SSc, miopatias, gota |
+| `/caso-clinica hemato` | Hematologia — anemias, leucemias, linfomas, CIVD, trombocitopenias, mieloma |
+| `/caso-clinica infecto` | Infectologia — HIV/AIDS, endocardite, sepse, meningite, tuberculose, dengue |
+| `/caso-clinica dermato` | Dermatologia clínica — dermatoses, infecções, manifestações sistêmicas |
+| `/caso-clinica onco` | Oncologia clínica — síndromes paraneoplásicas, emergências oncológicas |
+| `/caso-clinica emergencia` | Urgência/Emergência — PCR, choque, intoxicações, anafilaxia, coma |
+| `/caso-clinica dificil` | Caso de alta complexidade / multissistêmico |
+
+---
+
+## ⚔️ Cirurgia
+> `caso-cirurgia.zip`
+
+| Comando | Conteúdo |
+|---|---|
+| `/caso-cirurgia` | Caso aleatório de Cirurgia |
+| `/caso-cirurgia abdome` | Abdome agudo — apendicite, colecistite, pancreatite, oclusão, isquemia mesentérica, perfuração, hérnia complicada |
+| `/caso-cirurgia trauma` | Trauma ATLS — via aérea, tórax, abdome, TCE, vascular, fratura de bacia, damage control |
+| `/caso-cirurgia cad` | Cirurgia digestiva — câncer gástrico, colorretal, esofágico, pancreático, bariátrica, hemorroidas, fístulas |
+| `/caso-cirurgia vascular` | Vascular — AAA, isquemia aguda/crônica MMII, TVP, úlceras vasculares |
+| `/caso-cirurgia uro` | Urologia — cólica nefrética, ITU complicada, cânceres urológicos, obstrução urinária |
+| `/caso-cirurgia orto` | Ortopedia — fraturas com classificações, conservador vs cirúrgico, lesões ligamentares, infecções osteoarticulares |
+| `/caso-cirurgia cabeca` | Cabeça e pescoço — tireoidectomia, paratireoidectomia, câncer de cabeça e pescoço |
+| `/caso-cirurgia toracica` | Torácica — PNX hipertensivo, hemotórax, derrame pleural cirúrgico, câncer de pulmão |
+| `/caso-cirurgia neuro` | Neurocirurgia básica — TCE grave, HSA, hematomas extra/subdural, HIC |
+| `/caso-cirurgia pos-op` | Complicações pós-op — febre, deiscência, fístula, íleo paralítico, TEP, ISC |
+| `/caso-cirurgia dificil` | Caso complexo multidisciplinar |
+
+---
+
+## 🤰 Ginecologia e Obstetrícia
+> `caso-go.zip`
+
+| Comando | Conteúdo |
+|---|---|
+| `/caso-go` | Caso aleatório de GO |
+| `/caso-go obstetrica` | Obstetrícia geral — pré-natal, DUM, IG, Leopold, MF, BCF |
+| `/caso-go alto-risco` | Gestação de Alto Risco — pré-eclâmpsia/eclâmpsia, DHEG, DG, RCF, placenta prévia, DPP |
+| `/caso-go parto` | Trabalho de parto — partograma, distocias, indicações de cesárea, fórceps, vácuo |
+| `/caso-go puerperio` | Puerpério — endometrite, mastite, TVP, hemorragia pós-parto, inversão uterina |
+| `/caso-go urgencia-ob` | Urgências obstétricas — abortamento, gravidez ectópica, mola hidatiforme, rotura uterina |
+| `/caso-go ginecopatia` | Ginecologia geral — DIP, endometriose, miomatose, cistos ovarianos, SOP, distúrbios menstruais |
+| `/caso-go onco-gine` | Oncologia ginecológica — câncer de colo, endométrio, ovário, vulva (FIGO) |
+| `/caso-go ist` | IST e vulvovaginites — HPV, HSV, sífilis, gonorreia, clamídia, candidíase, vaginose |
+| `/caso-go contracepcao` | Anticoncepção — ACO, DIU, implante, ligadura (indicações e contraindicações) |
+| `/caso-go dificil` | Caso complexo com gestante |
+
+---
+
+## 👶 Pediatria
+> `caso-pediatria.zip`
+
+| Comando | Conteúdo |
+|---|---|
+| `/caso-pediatria` | Caso aleatório de Pediatria |
+| `/caso-pediatria neonatologia` | Neonatologia — reanimação neonatal, RDS, icterícia, sepse neonatal, Silverman-Anderson, CPAP, surfactante |
+| `/caso-pediatria crescimento` | Crescimento e DPN — curvas OMS, atraso, puberdade precoce/atrasada, baixa estatura |
+| `/caso-pediatria infectologia` | Infectologia pediátrica — exantemas, meningite, TB infantil, osteomielite, artrite séptica |
+| `/caso-pediatria pneumo` | Pneumologia pediátrica — bronquiolite, pneumonia, asma, síndrome coqueluchoide, laringite, epiglotite |
+| `/caso-pediatria cardio` | Cardiologia pediátrica — sopros, cardiopatias congênitas, Kawasaki, febre reumática |
+| `/caso-pediatria gastro` | Gastroenterologia pediátrica — GEA, desidratação, constipação, doença celíaca, intolerâncias |
+| `/caso-pediatria neuro` | Neurologia pediátrica — convulsão febril, epilepsia, meningite, hidrocefalia, paralisia cerebral |
+| `/caso-pediatria hemato` | Hematologia pediátrica — anemias, anemia falciforme, púrpuras, leucemias |
+| `/caso-pediatria endocrino` | Endocrinologia pediátrica — hipotireoidismo congênito, DM1, hiperplasia adrenal congênita |
+| `/caso-pediatria emergencia` | Emergência pediátrica — PALS, choque, sepse, croup, epiglotite, intoxicações, TCE |
+| `/caso-pediatria adolescente` | Saúde do adolescente — HEADSS, saúde mental, ISTs, gravidez na adolescência |
+| `/caso-pediatria dificil` | Caso complexo / diagnóstico raro |
+
+---
+
+## 📊 Medicina Preventiva e Social
+> `caso-preventiva.zip`
+
+| Comando | Conteúdo |
+|---|---|
+| `/caso-preventiva` | Questão aleatória de Preventiva |
+| `/caso-preventiva epidemio` | Epidemiologia — estudos (coorte, caso-controle, transversal, ECR), incidência, prevalência, mortalidade |
+| `/caso-preventiva bioestat` | Bioestatística — RR, OR, NNT, NNH, IC95%, valor-p, poder do estudo, tamanho amostral |
+| `/caso-preventiva triagem` | Teste diagnóstico — sensibilidade, especificidade, VPP, VPN, LR, curva ROC, Kappa |
+| `/caso-preventiva sus` | SUS e políticas de saúde — princípios, diretrizes, financiamento, NOBs, NOAS, PNAB |
+| `/caso-preventiva aps` | Atenção Primária — ESF, eMulti, atributos da APS, genograma, SOAP, CIAP-2 |
+| `/caso-preventiva vigilancia` | Vigilância Epidemiológica — notificação compulsória, SINAN, investigação de surtos |
+| `/caso-preventiva saude-mental` | Saúde Mental coletiva — CAPS, reforma psiquiátrica, Lei 10.216, matriciamento |
+| `/caso-preventiva materno-inf` | Saúde materno-infantil — mortalidade infantil, triagem neonatal, AIDPI, pré-natal |
+| `/caso-preventiva calculo` | Resolução guiada passo a passo de cálculo epidemiológico |
+| `/caso-preventiva surto` | Investigação de surto em campo |
+
+---
+
+## 🧠 Neurologia
+> `caso-clinico-neurologia.zip`
+
+| Comando | Conteúdo |
+|---|---|
+| `/caso-clinico` | Caso aleatório de Neurologia |
+| `/caso-clinico AVC` | Doenças cerebrovasculares — isquêmico, hemorrágico, NIHSS, trombólise, trombectomia |
+| `/caso-clinico epilepsia` | Síndromes epilépticas — classificação ILAE, tratamento, estado de mal |
+| `/caso-clinico nervos-cranianos` | Neuropatias cranianas — paralisia facial, diplopia, neuralgia do trigêmeo |
+| `/caso-clinico movimento` | Distúrbios do movimento — Parkinson, tremores, distonias, coreia, ataxias |
+| `/caso-clinico neuroinfeccao` | Neuroinfecção — meningite, encefalite, abscesso, neurossífilis, neurotuberculose |
+| `/caso-clinico nervo-periferico` | Neuropatias periféricas e miopatias — ENMG, GBS, CIDP, miastenia gravis |
+| `/caso-clinico desmielinizante` | Doenças desmielinizantes — EM (McDonald), NMO, ADEM |
+| `/caso-clinico cefaleia` | Cefaleias — ICHD-3, migrânea, cefaleia em salvas, cefaleia secundária |
+| `/caso-clinico dificil` | Caso de alta complexidade |
+
+---
+
+> 💡 **Dica:** Cole essa biblioteca no seu Notion para ter os comandos sempre à mão durante os estudos!
